@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\proxy\\classes\\customfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|solutionrelative:classes\\customfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\proxy\\classes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|solutionrelative:classes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\proxy\\interfaces\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|solutionrelative:interfaces\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\proxy\\classes\\customfileproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC02EA2C-F63E-4505-B113-29B375921FB3}|Proxy.csproj|solutionrelative:classes\\customfileproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomFileProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\CustomFileProxy.cs",
+              "RelativeDocumentMoniker": "Classes\\CustomFileProxy.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\CustomFileProxy.cs",
+              "RelativeToolTip": "Classes\\CustomFileProxy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:15:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFile.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Interfaces\\IFile.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFile.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Interfaces\\IFile.cs",
+              "RelativeToolTip": "Interfaces\\IFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:05:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\FileService.cs",
+              "RelativeDocumentMoniker": "Classes\\FileService.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\FileService.cs",
+              "RelativeToolTip": "Classes\\FileService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:01:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomFile.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\CustomFile.cs",
+              "RelativeDocumentMoniker": "Classes\\CustomFile.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Classes\\CustomFile.cs",
+              "RelativeToolTip": "Classes\\CustomFile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:56:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Proxy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:45:16.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

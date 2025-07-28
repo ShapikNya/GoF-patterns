@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\adapter\\classes\\legacysoundadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|solutionrelative:classes\\legacysoundadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\adapter\\classes\\legacysoundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|solutionrelative:classes\\legacysoundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\adapter\\interfaces\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD00D231-BA84-4031-BFFD-164EE0A0C225}|Adapter.csproj|solutionrelative:interfaces\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LegacySoundAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Classes\\LegacySoundAdapter.cs",
+              "RelativeDocumentMoniker": "Classes\\LegacySoundAdapter.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Classes\\LegacySoundAdapter.cs*",
+              "RelativeToolTip": "Classes\\LegacySoundAdapter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:57:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LegacySoundSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Classes\\LegacySoundSystem.cs",
+              "RelativeDocumentMoniker": "Classes\\LegacySoundSystem.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Classes\\LegacySoundSystem.cs*",
+              "RelativeToolTip": "Classes\\LegacySoundSystem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:56:51.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Interfaces\\IAudioPlayer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAudioPlayer.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Interfaces\\IAudioPlayer.cs*",
+              "RelativeToolTip": "Interfaces\\IAudioPlayer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:56:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Adapter\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:54:29.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

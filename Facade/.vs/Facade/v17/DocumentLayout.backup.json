@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\classes\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:classes\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\classes\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:classes\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\classes\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:classes\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\classes\\soundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:classes\\soundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\facade\\classes\\lights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83167235-9EC2-4565-BDDB-8E81A9187A55}|Facade.csproj|solutionrelative:classes\\lights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeTheaterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\HomeTheaterFacade.cs",
+              "RelativeDocumentMoniker": "Classes\\HomeTheaterFacade.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\HomeTheaterFacade.cs",
+              "RelativeToolTip": "Classes\\HomeTheaterFacade.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:45:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lights.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\Lights.cs",
+              "RelativeDocumentMoniker": "Classes\\Lights.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\Lights.cs",
+              "RelativeToolTip": "Classes\\Lights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:44:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\SoundSystem.cs",
+              "RelativeDocumentMoniker": "Classes\\SoundSystem.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\SoundSystem.cs",
+              "RelativeToolTip": "Classes\\SoundSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:44:48.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVDPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\DVDPlayer.cs",
+              "RelativeDocumentMoniker": "Classes\\DVDPlayer.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\DVDPlayer.cs",
+              "RelativeToolTip": "Classes\\DVDPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:44:29.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\Projector.cs",
+              "RelativeDocumentMoniker": "Classes\\Projector.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Classes\\Projector.cs",
+              "RelativeToolTip": "Classes\\Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:44:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Facade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:43:09.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

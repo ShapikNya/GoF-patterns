@@ -1,0 +1,15 @@
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\bin\Debug\net8.0\Adapter.exe
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\bin\Debug\net8.0\Adapter.deps.json
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\bin\Debug\net8.0\Adapter.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\bin\Debug\net8.0\Adapter.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Adapter\obj\Debug\net8.0\ref\Adapter.dll

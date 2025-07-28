@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\classes\\vanilladecorator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:classes\\vanilladecorator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\classes\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:classes\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\classes\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:classes\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\classes\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:classes\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\decorator\\interfaces\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B9D8F-0977-4098-B4FE-5811F1D80EB8}|Decorator.csproj|solutionrelative:interfaces\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VanillaDecorator .cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\VanillaDecorator .cs",
+              "RelativeDocumentMoniker": "Classes\\VanillaDecorator .cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\VanillaDecorator .cs",
+              "RelativeToolTip": "Classes\\VanillaDecorator .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:26:26.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SugarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\SugarDecorator.cs",
+              "RelativeDocumentMoniker": "Classes\\SugarDecorator.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\SugarDecorator.cs",
+              "RelativeToolTip": "Classes\\SugarDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:25:49.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "Classes\\MilkDecorator.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\MilkDecorator.cs",
+              "RelativeToolTip": "Classes\\MilkDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:23:38.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\Espresso.cs",
+              "RelativeDocumentMoniker": "Classes\\Espresso.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Classes\\Espresso.cs",
+              "RelativeToolTip": "Classes\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:21:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Interfaces\\ICoffee.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICoffee.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Interfaces\\ICoffee.cs",
+              "RelativeToolTip": "Interfaces\\ICoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:20:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Decorator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:18:44.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

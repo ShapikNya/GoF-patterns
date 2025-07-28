@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Facade.Classes
+{
+    public class Lights
+    {
+        public void Dim() => Console.WriteLine("Lights are dimmed");
+        public void Bright() => Console.WriteLine("Lights are bright");
+    }
+}
