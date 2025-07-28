@@ -1,0 +1,14 @@
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Singleton\obj\Debug\net8.0\ref\Singleton.dll

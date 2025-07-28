@@ -1,0 +1,14 @@
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfoInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfo.cs
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\bin\Debug\net8.0\Factory_Method.exe
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\bin\Debug\net8.0\Factory_Method.deps.json
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\bin\Debug\net8.0\Factory_Method.runtimeconfig.json
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\bin\Debug\net8.0\Factory_Method.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\bin\Debug\net8.0\Factory_Method.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\refint\Factory_Method.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\Factory_Method.genruntimeconfig.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Factory_Method\obj\Debug\net8.0\ref\Factory_Method.dll

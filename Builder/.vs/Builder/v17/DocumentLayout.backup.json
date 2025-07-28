@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\builder\\classes\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|solutionrelative:classes\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\builder\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|solutionrelative:classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\builder\\interfaces\\iuserbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|solutionrelative:interfaces\\iuserbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43DF244-4BD0-47EF-8364-8D41D84084B9}|Builder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Classes\\UserBuilder.cs",
+              "RelativeDocumentMoniker": "Classes\\UserBuilder.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Classes\\UserBuilder.cs",
+              "RelativeToolTip": "Classes\\UserBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:17:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Interfaces\\IUserBuilder.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserBuilder.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Interfaces\\IUserBuilder.cs",
+              "RelativeToolTip": "Interfaces\\IUserBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:15:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Classes\\User.cs",
+              "RelativeToolTip": "Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:07:18.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:49:10.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
