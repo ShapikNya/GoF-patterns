@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\classes\\leddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:classes\\leddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\classes\\phonedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:classes\\phonedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\classes\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:classes\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\interfaces\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:interfaces\\iobservable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD5E40-B1C0-47C6-8255-0CCDA86A1D00}|Observer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LEDDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\LEDDisplay.cs",
+              "RelativeDocumentMoniker": "Classes\\LEDDisplay.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\LEDDisplay.cs",
+              "RelativeToolTip": "Classes\\LEDDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:58:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\PhoneDisplay.cs",
+              "RelativeDocumentMoniker": "Classes\\PhoneDisplay.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\PhoneDisplay.cs",
+              "RelativeToolTip": "Classes\\PhoneDisplay.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:56:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "Classes\\WeatherStation.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Classes\\WeatherStation.cs",
+              "RelativeToolTip": "Classes\\WeatherStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:51:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObservable.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Interfaces\\IObservable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IObservable.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Interfaces\\IObservable.cs",
+              "RelativeToolTip": "Interfaces\\IObservable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:49:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Interfaces\\IObserver.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Interfaces\\IObserver.cs",
+              "RelativeToolTip": "Interfaces\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:48:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Observer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:47:56.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

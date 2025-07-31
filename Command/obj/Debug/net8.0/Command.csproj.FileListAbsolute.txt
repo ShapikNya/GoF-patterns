@@ -1,0 +1,15 @@
+C:\Users\Shapi\Desktop\GoF_patterns\Command\bin\Debug\net8.0\Command.exe
+C:\Users\Shapi\Desktop\GoF_patterns\Command\bin\Debug\net8.0\Command.deps.json
+C:\Users\Shapi\Desktop\GoF_patterns\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+C:\Users\Shapi\Desktop\GoF_patterns\Command\bin\Debug\net8.0\Command.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Command\bin\Debug\net8.0\Command.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.sourcelink.json
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\refint\Command.dll
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.pdb
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+C:\Users\Shapi\Desktop\GoF_patterns\Command\obj\Debug\net8.0\ref\Command.dll

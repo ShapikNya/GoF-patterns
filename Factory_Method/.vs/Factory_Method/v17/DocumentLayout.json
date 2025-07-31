@@ -7,36 +7,36 @@
       "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notificationcreator\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notificationcreator\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notificationcreator\\pushnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notificationcreator\\pushnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notificationcreator\\emailnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notificationcreator\\emailnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\base\\notificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\base\\notificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notificationcreator\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notificationcreator\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notification\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notification\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|c:\\users\\shapi\\desktop\\gof_patterns\\factory_method\\classes\\notificationcreator\\pushnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63061FEB-93CA-445B-96FC-C285CA535648}|Factory_Method.csproj|solutionrelative:classes\\notificationcreator\\pushnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,19 +46,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SmsNotification.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\SmsNotification.cs",
-              "RelativeDocumentMoniker": "Classes\\Notification\\SmsNotification.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\SmsNotification.cs",
-              "RelativeToolTip": "Classes\\Notification\\SmsNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificationCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\EmailNotificationCreator.cs",
+              "RelativeDocumentMoniker": "Classes\\NotificationCreator\\EmailNotificationCreator.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\EmailNotificationCreator.cs",
+              "RelativeToolTip": "Classes\\NotificationCreator\\EmailNotificationCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:18:12.921Z",
+              "WhenOpened": "2025-07-28T15:54:14.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Classes\\Notification\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\EmailNotification.cs",
+              "RelativeToolTip": "Classes\\Notification\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:17:03.877Z",
               "EditorCaption": ""
             },
             {
@@ -76,33 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailNotificationCreator.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\EmailNotificationCreator.cs",
-              "RelativeDocumentMoniker": "Classes\\NotificationCreator\\EmailNotificationCreator.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\EmailNotificationCreator.cs",
-              "RelativeToolTip": "Classes\\NotificationCreator\\EmailNotificationCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T15:54:14.329Z",
+              "WhenOpened": "2025-07-28T16:04:11.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PushNotificationCreator.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\PushNotificationCreator.cs",
-              "RelativeDocumentMoniker": "Classes\\NotificationCreator\\PushNotificationCreator.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\PushNotificationCreator.cs",
-              "RelativeToolTip": "Classes\\NotificationCreator\\PushNotificationCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:03:15.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SmsNotificationCreator.cs",
               "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\SmsNotificationCreator.cs",
               "RelativeDocumentMoniker": "Classes\\NotificationCreator\\SmsNotificationCreator.cs",
@@ -115,15 +115,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Interfaces\\INotification.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INotification.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Interfaces\\INotification.cs",
+              "RelativeToolTip": "Interfaces\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:04:11.36Z",
+              "WhenOpened": "2025-07-28T16:20:30.144Z",
               "EditorCaption": ""
             },
             {
@@ -142,28 +142,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "EmailNotification.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\EmailNotification.cs",
-              "RelativeDocumentMoniker": "Classes\\Notification\\EmailNotification.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\EmailNotification.cs",
-              "RelativeToolTip": "Classes\\Notification\\EmailNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "Classes\\Notification\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\Notification\\SmsNotification.cs",
+              "RelativeToolTip": "Classes\\Notification\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:17:03.877Z",
+              "WhenOpened": "2025-07-28T16:18:12.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "INotification.cs",
-              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Interfaces\\INotification.cs",
-              "RelativeDocumentMoniker": "Interfaces\\INotification.cs",
-              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Interfaces\\INotification.cs",
-              "RelativeToolTip": "Interfaces\\INotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "PushNotificationCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\PushNotificationCreator.cs",
+              "RelativeDocumentMoniker": "Classes\\NotificationCreator\\PushNotificationCreator.cs",
+              "ToolTip": "C:\\Users\\Shapi\\Desktop\\GoF_patterns\\Factory_Method\\Classes\\NotificationCreator\\PushNotificationCreator.cs",
+              "RelativeToolTip": "Classes\\NotificationCreator\\PushNotificationCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T16:20:30.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T16:03:15.52Z"
             }
           ]
         }
